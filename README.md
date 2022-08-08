@@ -7,25 +7,25 @@ Proficient in building scalable infrastructure, build and deployment of automati
 I love building solutions that touch life, excite me, and so does learning new technologies.
 
 Profile
-• 2 year of experience with Deloitte as RFA Software Engineer. 
-• Solid background in Data Science algorithms and methodologies.
-• Strong coding skills and comprehensive background in Informatics.
-• Proven data science career track in multiple industries.
+- 2 year of experience with Deloitte as RFA Software Engineer. 
+- Solid background in Data Science algorithms and methodologies.
+- Strong coding skills and comprehensive background in Informatics.
+- Proven data science career track in multiple industries.
 
 AREAS OF INTEREST
-• Data Science
-• Machine Learning
-• Software Development
-• Natural Language Processing
-• Computer Vision
+- Data Science
+- Machine Learning
+- Software Development
+- Natural Language Processing
+- Computer Vision
 
 Technical Expertise:-
-• Programming: Python, C, Java.
-• Machine Learning : NumPy, Pandas, Pytorch, Tensorflow, Scikit-learn, SciPy, Matplotlib, Word2Vec , Keras, NLTK.
-• BI-tools: Tableau, SQL Server Management Studio, SQL Server Reporting Services
-• Web Technologies: JavaScript, HTML, CSS, JSP, Servlet, Angular, Flask.
-• Database: MySQL, Postgresql.
-•Tools: SSMS, SSRS, Netbeans, ArgoUML, Git, VSCode, PyCharm, Tableau, Eclipse, Git, VisualStudio, Jupyter Notebook, Postman, Latex.
+- Programming: Python, C, Java.
+- Machine Learning : NumPy, Pandas, Pytorch, Tensorflow, Scikit-learn, SciPy, Matplotlib, Word2Vec , Keras, NLTK.
+- BI-tools: Tableau, SQL Server Management Studio, SQL Server Reporting Services
+- Web Technologies: JavaScript, HTML, CSS, JSP, Servlet, Angular, Flask.
+- Database: MySQL, Postgresql.
+- Tools: SSMS, SSRS, Netbeans, ArgoUML, Git, VSCode, PyCharm, Tableau, Eclipse, Git, VisualStudio, Jupyter Notebook, Postman, Latex.
 
 ### 🔗 Connect Me
 
