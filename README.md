@@ -6,21 +6,21 @@
 
 - I love building solutions that touch life, excite me, and so does learning new technologies.
 
-##### Profile
+#### Profile
 - 3.5 month experience as an Machine Learning Engineering Intern at Ushur Inc in Summer 2022.
 - 2 year of experience with Deloitte as RFA Software Engineer. 
 - Solid background in Data Science algorithms and methodologies.
 - Strong coding skills and comprehensive background in Informatics.
 - Proven data science career track in multiple industries.
 
-##### Areas of Interest
+#### Areas of Interest
 - Data Science
 - Machine Learning
 - Software Development
 - Natural Language Processing
 - Computer Vision
 
-##### Technical Expertise:-
+#### Technical Expertise:-
 - Programming: Python, C, Java.
 - Machine Learning : NumPy, Pandas, Pytorch, Tensorflow, Scikit-learn, SciPy, Matplotlib, Word2Vec , Keras, NLTK.
 - BI-tools: Tableau, SQL Server Management Studio, SQL Server Reporting Services
@@ -28,7 +28,7 @@
 - Database: MySQL, Postgresql.
 - Tools: SSMS, SSRS, Netbeans, ArgoUML, Git, VSCode, PyCharm, Tableau, Eclipse, Git, VisualStudio, Jupyter Notebook, Postman, Latex.
 
-##### 🔗 Connect Me
+#### 🔗 Connect Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddhantgupta0212/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
