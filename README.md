@@ -32,6 +32,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/siddhantgupta0212/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:siddhant.gupta021295@gmail.com"><img src="https://img.shields.io/badge/shahnisarg9696-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:siddhant.gupta021295@gmail.com"><img src="https://img.shields.io/badge/siddhant.gupta021295-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
