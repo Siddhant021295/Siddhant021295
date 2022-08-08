@@ -12,7 +12,7 @@ Profile
 - Strong coding skills and comprehensive background in Informatics.
 - Proven data science career track in multiple industries.
 
-AREAS OF INTEREST
+Areas of Interest
 - Data Science
 - Machine Learning
 - Software Development
