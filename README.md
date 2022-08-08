@@ -25,4 +25,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Angular](https://img.shield.io/badge/Angular-%23F05033.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-<img align='right' src="programmer.gif" width="280">
+![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhant021295&show_icons=true&theme=swift&count_private=true)
+
+### 🔗 Connect Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddhantgupta0212/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:siddhant.gupta021295@gmail.com"><img src="https://img.shields.io/badge/shahnisarg9696-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
