@@ -20,7 +20,7 @@
 - Natural Language Processing
 - Computer Vision
 
-#### Technical Expertise:-
+#### Technical Expertise
 - Programming: Python, C, Java.
 - Machine Learning : NumPy, Pandas, Pytorch, Tensorflow, Scikit-learn, SciPy, Matplotlib, Word2Vec , Keras, NLTK.
 - BI-tools: Tableau, SQL Server Management Studio, SQL Server Reporting Services
