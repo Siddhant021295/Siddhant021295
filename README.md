@@ -23,6 +23,6 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)\
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Angular](https://img.shield.io/badge/Angular-%23F05033.svg?style=for-the-badge&logo=Angular&logoColor=white)
+![Angular](https://img.shield.io/badge/Angular-%23F05033.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 <img align='right' src="programmer.gif" width="280">
