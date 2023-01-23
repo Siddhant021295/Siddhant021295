@@ -7,7 +7,7 @@
 - I love building solutions that touch life, excite me, and so does learning new technologies.
 
 #### Profile
-- 3.5 month experience as an Machine Learning Engineering Intern at Ushur Inc in Summer 2022.
+- 8 month experience as an Machine Learning Engineering Intern at Ushur Inc in Summer 2022.
 - 2 year of experience with Deloitte as RFA Software Engineer. 
 - Solid background in Data Science algorithms and methodologies.
 - Strong coding skills and comprehensive background in Informatics.
