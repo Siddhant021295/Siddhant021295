@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I was born in Sagar, India, and completed a Bachelor of Computer Science at Shri Govindram Seksaria Institute of Technology and Science. I am currently, Pursuing a master from North Carolina State University in Computer Science with a Specialization in data science. A self-motivated individual with two years of IT experience, including developing ETL processes, ML/AI Automation, Machine Learning Model explainability, interpretability, and Reporting Technologies.
+- I have completed a Bachelor of Computer Science at Shri Govindram Seksaria Institute of Technology and Science. I am currently, Pursuing a master from North Carolina State University in Computer Science with a Specialization in data science. A self-motivated individual with two years of IT experience, including developing ETL processes, ML/AI Automation, Machine Learning Model explainability, interpretability, and Reporting Technologies.
 
 - Proficient in building scalable infrastructure and deployment of automation. I contributed to various projects requiring automation with the ongoing process to reduce the time spent on major manual tasks.
 
