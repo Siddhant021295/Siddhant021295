@@ -7,8 +7,8 @@
 - I love building solutions that touch life, excite me, and so does learning new technologies.
 
 #### Profile
+- 4 Years of with NLP, ML and Data Science experience. 
 - 8 month experience as an Machine Learning Engineering Intern at Ushur Inc in Summer 2022.
-- 2 year of experience with Deloitte as Data Engineer. 
 - Solid background in Data Science algorithms and methodologies.
 - Strong coding skills and comprehensive background in Informatics.
 - Proven data science career track in multiple industries.
